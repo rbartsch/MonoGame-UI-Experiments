@@ -1,0 +1,26 @@
+﻿TODO:
+- Text/paragraph align left, centre, right for textarea
+- Global/GUI manager for drawing and destroying/creating GUI elements
+- Text input field
+- Selectable box/dropdown list (with just text). i.e a combo box.
+- Toggle buttons
+- Radio buttons
+- Checkbox buttons
+- Sliders
+- Tooltips
+- Notifications
+- Popups/events (think Paradox GSGs, can contain one or more buttons - useful for decisions)
+- Right click context menu
+- Graphs like bar chart, pie chart, etc.
+- Tabs
+- General panels that can house complete GUI elements like a scroll bar and can use tabs to switch between panels
+- GUI definition files for designing layout that is read and constructed. i.e define button with texture at point X,Y with a text element that contains the text
+
+DONE:
++ Text Area (incl. wrap or overflow)
++ Text2D
++ Scrollbar (needs refactoring)
++ Buttons
++ ScrollMask should have an Image2D for background optional
++ ScrollContainer should have an Image2D for background optional
++ LayerDepth for GUIDrawable

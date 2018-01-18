@@ -1,0 +1,4 @@
+﻿To make a scroll system that works with just text:
+Add a scrollcontainer, add a scrollelement to it. Then add a textarea (guidrawable) to scroll element.
+When the textarea's text gets larger vertically, expand the textarea's rectangle area vertically to match.
+Then at the same time update the scrollelement's rectangle area vertically as well.
